@@ -1,0 +1,3 @@
+[submodule "src/app/shared-custom-component"]
+	path = src/app/shared-custom-component
+	url = https://github.com/duardographics/shared-custom-component.git
